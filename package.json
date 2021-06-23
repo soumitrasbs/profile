@@ -10,9 +10,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "css": "^3.0.0",
     "decode": "^0.3.0",
     "express": "^4.17.1",
     "jquery": "^3.6.0",
-    "nodemon": "^2.0.7"
+    "nodemon": "^2.0.7",
+    "npm-assets": "^0.1.2",
+    "pdfkit": "^0.12.1"
   }
 }
