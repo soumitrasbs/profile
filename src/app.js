@@ -12,7 +12,7 @@ app.get("", (req,res)=>{
     res.send("Welcome to Soumitra Bag");
 })
 
-app.get("/index", (req,res)=>{
+app.get("/about", (req,res)=>{
     res.send("Welcome to Soumitra Bag");
 })
 
